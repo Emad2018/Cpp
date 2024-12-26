@@ -2,3 +2,5 @@
 Workspace/build/
 
 .vscode/
+
+build/
