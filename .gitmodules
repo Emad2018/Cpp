@@ -1,3 +1,6 @@
 [submodule "UdacityProjects/CppND-Route-Planning-Project"]
 	path = UdacityProjects/CppND-Route-Planning-Project
 	url = https://github.com/Emad2018/CppND-Route-Planning-Project.git
+[submodule "UdacityProjects/CppND-System-Monitor-Project-Updated"]
+	path = UdacityProjects/CppND-System-Monitor-Project-Updated
+	url = https://github.com/Emad2018/CppND-System-Monitor-Project-Updated.git
