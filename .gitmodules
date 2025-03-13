@@ -4,3 +4,6 @@
 [submodule "UdacityProjects/CppND-System-Monitor-Project-Updated"]
 	path = UdacityProjects/CppND-System-Monitor-Project-Updated
 	url = https://github.com/Emad2018/CppND-System-Monitor-Project-Updated.git
+[submodule "CppND-Memory-Management-Chatbot"]
+	path = CppND-Memory-Management-Chatbot
+	url = https://github.com/Emad2018/CppND-Memory-Management-Chatbot.git
