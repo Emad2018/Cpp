@@ -7,3 +7,6 @@
 [submodule "UdacityProjects/CppND-Memory-Management-Chatbot"]
 	path = UdacityProjects/CppND-Memory-Management-Chatbot
 	url = https://github.com/Emad2018/CppND-Memory-Management-Chatbot.git
+[submodule "UdacityProjects/CppND-Program-a-Concurrent-Traffic-Simulation"]
+	path = UdacityProjects/CppND-Program-a-Concurrent-Traffic-Simulation
+	url = https://github.com/Emad2018/CppND-Program-a-Concurrent-Traffic-Simulation
